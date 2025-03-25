@@ -31,5 +31,6 @@ PixelPal is a simple, fun app designed to simulate the classic Tamagotchi experi
 ## Development
 
 This application was created as a fun side project.
+https://pixelpal.tiiny.site/
 
 Have fun caring for your PixelPal!
